@@ -1,6 +1,7 @@
 build/
 build_*/
 sdkconfig
+sdkconfig.old
 
 build_summary_*.xml
 app_info_*.txt
